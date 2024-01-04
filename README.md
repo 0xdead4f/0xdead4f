@@ -4,7 +4,7 @@
 </p>
 
 <p>
-  <h4 align="center"><b><i>Im a bug hounty hunter that master on finding dup</i></b></h4>
+  <h4 align="center"><b><i>Im a bug hounty hunter that master on finding dupes</i></b></h4>
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 
 <a href="https://www.linkedin.com/in/gusti-agung-ngurah/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:teguhdarmawangsa007@gmail.com?subject=Hello%20Sameer"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="mailto:teguhdarmawangsa007@gmail.com?subject=Hello%20Teguh"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 
 </p>
 
@@ -23,7 +23,7 @@
 ### I am a Part Time Programmer & Bounty Hunter
 - 💻 Working full time at Gov Sectors </a>
 - 🔭 love doing security research
-- 🌱 PhD on finding dup
+- 🌱 PhD on finding dupes
 - ⚡ Love to code hacking tools that i'd never commit :raised_hands:
 
 <br>
