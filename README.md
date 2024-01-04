@@ -34,4 +34,5 @@
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Python" width="35px" src="https%3A%2F%2Fwww.stickpng.com%2Fid%2Fimg%2Fagama%2Fmakanan%2Fagen-khusus-oso%2Flogo-python&psig=AOvVaw0oTp5VXZt7yNPL45ItDTxa&ust=1704442415287000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCOiL-_akw4MDFQAAAAAdAAAAABAE" />
 
