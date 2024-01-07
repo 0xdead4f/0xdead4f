@@ -4,7 +4,7 @@
 </p>
 
 <p>
-  <h4 align="center"><b><i>Im a bug hounty hunter that master on finding dupes</i></b></h4>
+  <h4 align="center"><b><i>An Security Researcher that master on finding dupes</i></b></h4>
 </p>
 
 <p align="center">
