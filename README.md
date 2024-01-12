@@ -31,6 +31,6 @@
 <img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Python" width="35px" src="https://raw.githubusercontent.com/0xdead4f/0xdead4f/8c55d323790408a6f7d91711d718e0db7fc38dfe/python.png"/>
-<img align="left" alt="Go" width="35px" src="https://raw.githubusercontent.com/0xdead4f/0xdead4f/8c55d323790408a6f7d91711d718e0db7fc38dfe/go.png"/>
+<img align="left" alt="Go" width="45px" height="35px" src="https://raw.githubusercontent.com/0xdead4f/0xdead4f/8c55d323790408a6f7d91711d718e0db7fc38dfe/go.png"/>
 
 
